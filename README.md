@@ -127,9 +127,6 @@ const brillian = {
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" alt="Footer" />
-</p>
 
 <p align="center">
   <i>⭐ Terima kasih sudah berkunjung! Jangan ragu untuk berkolaborasi.</i>
