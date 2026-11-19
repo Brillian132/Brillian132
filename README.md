@@ -2,7 +2,7 @@
   <img src="bannergithub.jpg" alt="Brillian Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
-<<div align="center">
+<div align="center">
 
 # Brillian Wicaksono
 
