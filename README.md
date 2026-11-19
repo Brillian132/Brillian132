@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="bannergithub.jpg" alt="Banner Brilian" width="100%" />
+</div>
+<br>
+<div align="center">
 
 # Halo, saya Brilian! 👋
 
