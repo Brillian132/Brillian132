@@ -19,45 +19,31 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="middle">
 
 ```js
 const brillian = {
-  role: "Full Stack Developer & Robotics Enthusiast",
-  location: "Indonesia 🇮🇩",
+  role: "Full Stack Developer & Robotics",
+  location: "Indonesia",
 
   building: [
-    "Pillow Island (Asisten AI Desktop)",
+    "Pillow Island (AI Desktop)",
     "Robot Periferal (ESP32)"
   ],
 
-  learning: [
-    "Integrasi Python + Tauri",
-    "Rust",
-    "Embedded Systems",
-    "UI/UX Design"
-  ],
+  learning: ["Python + Tauri", "Rust", "UI/UX"],
 
   tech: {
-    frontend: ["HTML", "CSS", "JavaScript", "Tauri"],
+    frontend: ["HTML", "CSS", "JS", "Tauri"],
     backend:  ["Python", "Rust"],
     hardware: ["ESP32", "Arduino"]
-  },
-
-  askMeAbout: [
-    "Pembuatan asisten AI",
-    "UI/UX",
-    "Robotika dasar"
-  ]
+  }
 };
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
-
-<!-- Ganti dengan gambar pilihanmu (misal: aesthetic/anime/setup) -->
-<img src="sebelah.jpg" alt="About Me" width="100%" style="border-radius: 10px;" />
-
+<td width="42%" align="center" valign="middle">
+  <img src="sebelah.jpg" alt="About Me" width="100%" />
 </td>
 </tr>
 </table>
