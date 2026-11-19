@@ -2,10 +2,14 @@
   <img src="bannergithub.jpg" alt="Brillian Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF3366,100:0D1117&text=BRILLIAN&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Robotics%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="Brillian Wicaksono" />
+<<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=650&height=45&lines=Building+Pillow+Island+%F0%9F%8F%9D%EF%B8%8F;Teaching+machines+to+talk+%F0%9F%A4%96;Python+%7C+JavaScript+%7C+Rust+%7C+ESP32;Turning+ideas+into+code+%26+circuits+%E2%9A%A1" alt="Typing animation" />
+# Brillian
+
+**Full Stack Developer · Robotics Enthusiast**
+
+<sub>Membangun asisten AI, antarmuka modern, dan sistem embedded.</sub>
+
 </div>
 
 <p align="center">
