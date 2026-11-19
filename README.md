@@ -48,7 +48,7 @@ const brillian = {
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="sebelahh.jpg" alt="About Me" width="100%" />
+  <img src="sebelahh.png" alt="About Me" width="100%" />
 </td>
 </tr>
 </table>
