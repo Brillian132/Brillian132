@@ -6,10 +6,6 @@
 
 <h3 align="center">Full Stack Developer | Robotics Enthusiast</h3>
 
-<p align="center">
-  <b>Robot Mak</b>
-</p>
-
 ---
 
 ### 🚀 Tentang Saya
