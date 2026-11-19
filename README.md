@@ -56,7 +56,7 @@ const brillian = {
 <td width="40%" align="center" valign="middle">
 
 <!-- Ganti dengan gambar pilihanmu (misal: aesthetic/anime/setup) -->
-<img src="about-image.jpg" alt="About Me" width="100%" style="border-radius: 10px;" />
+<img src="sebelah.jpg" alt="About Me" width="100%" style="border-radius: 10px;" />
 
 </td>
 </tr>
