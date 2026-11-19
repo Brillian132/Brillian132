@@ -4,7 +4,7 @@
 
 <<div align="center">
 
-# Brillian
+# Brillian Wicaksono
 
 **Full Stack Developer · Robotics Enthusiast**
 
