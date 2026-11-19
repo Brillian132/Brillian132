@@ -1,15 +1,13 @@
 <div align="center">
-  <!-- GANTI "banner.png" DENGAN NAMA FILE GAMBAR BANNER ANDA -->
   <img src="bannergithub.jpg" alt="Banner Brilian" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br>
 
-<h1 align="center">Halo, saya Brilian! 👋</h1>
 <h3 align="center">Full Stack Developer | Robotics Enthusiast</h3>
 
 <p align="center">
-  <i>"Building AI companions & physical robots. Currently crafting Pillow Island."</i>
+  <b>Robot Mak</b>
 </p>
 
 ---
@@ -18,7 +16,6 @@
 - 🔭 Saat ini sedang mengembangkan **Pillow Island** (Asisten AI Desktop) dan proyek **Robot Periferal**.
 - 🌱 Sedang mendalami integrasi **Python**, **JavaScript (Tauri)**, dan **ESP32**.
 - 💬 Tanyakan saya tentang pembuatan asisten AI, UI/UX, atau robotika dasar.
-- ⚡ Fun fact: Saya percaya kode yang baik adalah kode yang bisa membuat hidup lebih mudah.
 
 ---
 
@@ -33,17 +30,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+<br>
 
 ### 📊 Statistik GitHub Saya
 <p align="center">
-  <!-- GANTI "Brillian132" DENGAN USERNAME GITHUB ANDA (Jika berbeda) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Brillian132&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&icon_color=FF3366&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brillian132&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&text_color=c9d1d9" alt="Top Languages" width="48%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brillian132&label=Profile%20views&color=FF3366&style=flat" alt="Profile Views" />
 </p>
