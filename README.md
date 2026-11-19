@@ -4,8 +4,6 @@
 <br>
 <div align="center">
 
-# Halo, saya Brilian! 👋
-
 ### Full Stack Developer | Robotics Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;Tauri+App+Builder;Robot+Maker)](https://git.io/typing-svg)
