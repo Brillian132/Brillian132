@@ -1,54 +1,49 @@
 <div align="center">
-  <img src="bannergithub.jpg" alt="Banner Brilian" width="100%" />
+  <!-- GANTI "banner.png" DENGAN NAMA FILE GAMBAR BANNER ANDA -->
+  <img src="bannergithub.jpg" alt="Banner Brilian" width="100%" style="border-radius: 10px;" />
 </div>
+
 <br>
-<div align="center">
 
-### Full Stack Developer | Robotics Enthusiast
+<h1 align="center">Halo, saya Brilian! 👋</h1>
+<h3 align="center">Full Stack Developer | Robotics Enthusiast</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;Tauri+App+Builder;Robot+Maker)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <i>"Building AI companions & physical robots. Currently crafting Pillow Island."</i>
+</p>
 
 ---
 
 ### 🚀 Tentang Saya
 - 🔭 Saat ini sedang mengembangkan **Pillow Island** (Asisten AI Desktop) dan proyek **Robot Periferal**.
-- 🌱 Sedang mendalami **Python**, **JavaScript (Tauri)**, dan **ESP32**.
-- 💬 Tanyakan saya tentang pembuatan asisten AI atau robotika dasar.
+- 🌱 Sedang mendalami integrasi **Python**, **JavaScript (Tauri)**, dan **ESP32**.
+- 💬 Tanyakan saya tentang pembuatan asisten AI, UI/UX, atau robotika dasar.
+- ⚡ Fun fact: Saya percaya kode yang baik adalah kode yang bisa membuat hidup lebih mudah.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ### 📊 Statistik GitHub Saya
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brillian132&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- GANTI "Brillian132" DENGAN USERNAME GITHUB ANDA (Jika berbeda) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Brillian132&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&icon_color=FF3366&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brillian132&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3366&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </p>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brillian132&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Brillian132&label=Profile%20views&color=FF3366&style=flat" alt="Profile Views" />
 </p>
-
-<!--
-**Brillian132/Brillian132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
